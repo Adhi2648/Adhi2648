@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying Information systems in CSULB 
-- 🌱 I’m currently learning GenAI
+- 🔭 I’m currently studying Information systems in CSULB and intern at Helton Law as a Data science intern.
+- 🌱 I’m currently learning RAG and fine-tuning models
 - 👯 I’m looking to collaborate on Full stack, Mobile apps and GenAi projects
 - 📫 How to reach me: adhinarayanan619@gmail.com
 
